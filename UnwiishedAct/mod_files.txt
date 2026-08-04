@@ -1,0 +1,4 @@
+add ChangeLogs.txt
+add config.json
+add Credits.txt
+add mod.ini
