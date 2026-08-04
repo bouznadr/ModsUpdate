@@ -1,0 +1,63 @@
+[WIP1]
+* Initial Release
+
+[WIP2]
+* Add PS3 UI Option
+
+* Disbale score system for tutorial
+
+- Apotos
+* Updated Rank Table
+
+(Act 1)
+* Add a @NoCamera tag to the wood bridge collision so the camera do not get stuck when you fall under it
+
+(Act 2)
+* Fix some holes found in the collision where sonic can pass through them
+* Lower the height of the invisible wall before the Big Chaser to avoid hitting it in the big jump ramp
+* Add some @NoCamera tag in the collision to avoir getting the camera stuck to nothing
+* Make the Time and the second Ring Mission more accurate
+* Add missions result position
+
+- Spagonia
+* Add Gaia Gate
+* Add Spagonia Tutorial Day
+
+- Holoska
+* Add Gaia Gate
+
+- Chun-nan
+* Add Act 1 Day
+* Add Act 2 Day
+* Add Missions Day
+
+[WIP2 Hotfix]
+- Chun-nan
+* Fix a broken file that force the game to only load the Spear object
+
+[WIP3]
+* Update tutorial drift loading render
+* Add Super Rings variant
+* Stage now load the high quality GI
+
+- Apotos
+* Update Act 1 Night
+* Add Sound ambiance in day stage
+
+- Spagonia
+* Add Full Act Night *todo* SetData left
+* Fix gaia gate water collision
+* Updated Rank Table *todo*
+* Add Sound ambiance in day stage
+
+- Shamar
+* Add Act 1 Day *todo* GI left
+* Add Act 2 Day
+* Add Missions Day
+
+- Adabat
+* Add Act 1 Day
+* Add Missions Day
+
+- Eggmanland
+* Add Act 1 Day *todo*

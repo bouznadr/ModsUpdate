@@ -1,0 +1,237 @@
+{
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "Common",
+      "Elements": [
+        {
+          "Name": "IncludeDir10",
+          "DisplayName": "Logo",
+          "Description": [
+            ""
+          ],
+          "Type": "ConfigEnum",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "."
+        },
+        {
+          "Name": "IncludeDir16",
+          "DisplayName": "High Quality GI",
+          "Description": [
+            ""
+          ],
+          "Type": "GIEnum",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "."
+        },
+        {
+          "Name": "IncludeDir0",
+          "DisplayName": "Controler Type",
+          "Description": [
+            ""
+          ],
+          "Type": "Control",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "."
+        }
+      ]
+    },
+    {
+      "Name": "Main",
+      "DisplayName": "Dragon Road Wii Act 1",
+      "Elements": [
+        {
+          "Name": "IncludeDir12",
+          "DisplayName": "Main Wood Texture",
+          "Type": "MainWoodTexture",
+          "DefaultValue": "./WiiWood",
+          "Description": [
+            "Check out the different wood types:",
+            "- Modified version of the Wii\u0027s Wood Texture",
+            "- Uncompressed Wii Wood Texture",
+            "- Custom-made wood texture"
+          ],
+          "EnumName": "MainWoodTexture",
+          "MinValue": null,
+          "MaxValue": null
+        },
+        {
+          "Name": "IncludeDir3",
+          "DisplayName": "Visuals!!!",
+          "Type": "Visuals!!!",
+          "DefaultValue": "./WiiWaterRef",
+          "Description": [
+            "You can customize water reflections and level atmosphere here"
+          ],
+          "EnumName": "Visuals!!!",
+          "MinValue": null,
+          "MaxValue": null
+        }
+      ]
+    },
+    {
+      "Name": "Main",
+      "DisplayName": "Arid Sand Wii Act 2",
+      "Elements": [
+        {
+          "Name": "IncludeDir1",
+          "DisplayName": "Use the Sand Buggy",
+          "Type": "SandBuggy",
+          "DefaultValue": ".",
+          "Description": [
+            "Make use of the Sand Buggy\n(won't affect mission)"
+          ],
+          "EnumName": "SandBuggy",
+          "MinValue": null,
+          "MaxValue": null
+        }
+      ]
+    }
+  ],
+  "Enums": {
+    "ConfigEnum": [
+      {
+        "DisplayName": "Sonic Unleashed",
+        "Value": ".",
+        "Description": [
+          "Original logo\n\n(or if you already have a modded logo)"
+        ]
+      },
+      {
+        "DisplayName": "Sonic UnWiished",
+        "Value": "Logo1",
+        "Description": [
+          "Original logo with Wii in it"
+        ]
+      },
+      {
+        "DisplayName": "UnWiished Recompile",
+        "Value": "Logo2",
+        "Description": [
+          "Unleashed Recompile logo mod with Wii in it"
+        ]
+      }
+	],
+    "SandBuggy": [
+      {
+        "DisplayName": "Enable",
+        "Value": ".",
+        "Description": [
+          "Use the sand buggy"
+        ]
+      },
+      {
+        "DisplayName": "Disable",
+        "Value": "NoBuggy",
+        "Description": [
+          "Doesn't use the sand buggy"
+        ]
+      }
+	],
+	"Control": [
+      {
+        "DisplayName": "Xbox360",
+        "Value": ".",
+        "Description": [
+          "Xbox360 UI and Voice line"
+        ]
+      },
+      {
+        "DisplayName": "PS3",
+        "Value": "PS3",
+        "Description": [
+          "PS3 UI and Voice line"
+        ]
+      }
+	],
+	"stagelist": [
+      {
+        "DisplayName": "Default",
+        "Value": ".",
+        "Description": [
+          ""
+        ]
+      },
+      {
+        "DisplayName": "Wii Acurate",
+        "Value": "WiiStgLst",
+        "Description": [
+          "This option will :\n- Hide Restored day Acts\n- Separate Night Acts to 3"
+        ]
+      }
+	],
+  "GIEnum": [
+      {
+        "DisplayName": "Enable",
+        "Value": "HQGI",
+        "Description": [
+          ""
+        ]
+      },
+      {
+        "DisplayName": "Disable",
+        "Value": ".",
+        "Description": [
+          ""
+        ]
+      }
+    ],
+  "MainWoodTexture": [
+      {
+        "DisplayName": "Wii Inspired Wood",
+        "Value": "China/WiiWood",
+        "Description": [
+          "Uses Modified Wii Wood Texture."
+        ]
+      },
+      {
+        "DisplayName": "Custom Wood Texture",
+        "Value": "China/CustomWood",
+        "Description": [
+          "Use the custom created wood texture."
+        ]
+      },
+      {
+        "DisplayName": "Uncompressed Wii Wood",
+        "Value": "China/OGWiiWood",
+        "Description": [
+          "Uncompressed version of the Wii\u0027s wood texture."
+        ]
+      }
+    ],
+    "Visuals!!!": [
+      {
+        "DisplayName": "Wii Inspired Atmosphere \u002B Water Reflections",
+        "Value": "China/WiiWaterRef",
+        "Description": [
+          "Wii-Inspired SceneEffect with Water reflections."
+        ]
+      },
+      {
+        "DisplayName": "Wii Inspired Atmosphere WITHOUT Water Reflections",
+        "Value": "China/WiiNPR",
+        "Description": [
+          "Uses Wii Inspired SceneEffect without the Water Reflections."
+        ]
+      },
+      {
+        "DisplayName": "HD Inspired Atmosphere \u002B Water Reflections",
+        "Value": "China/HDInspo",
+        "Description": [
+          "HD-Inspired SceneEffect with Water reflections."
+        ]
+      },
+      {
+        "DisplayName": "HD Inspired Atmosphere WITHOUT Water Reflections",
+        "Value": "China/HDInspoNPR",
+        "Description": [
+          "HD-Inspired SceneEffect without Water reflections."
+        ]
+      }
+    ]
+  },
+   "IniFile":"mod.ini"
+}
