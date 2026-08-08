@@ -39,6 +39,7 @@
 * Update tutorial drift loading render
 * Add Super Rings variant
 * Stage now load the high quality GI
+* Add all Gaia Gates and implement a ETF gate for them
 
 - Apotos
 * Update Act 1 Night
@@ -51,13 +52,10 @@
 * Add Sound ambiance in day stage
 
 - Shamar
-* Add Act 1 Day *todo* GI left
+* Add Act 1 Day
 * Add Act 2 Day
 * Add Missions Day
 
 - Adabat
 * Add Act 1 Day
 * Add Missions Day
-
-- Eggmanland
-* Add Act 1 Day *todo*
