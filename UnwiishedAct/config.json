@@ -5,7 +5,7 @@
       "DisplayName": "Common",
       "Elements": [
         {
-          "Name": "IncludeDir10",
+          "Name": "IncludeDir3",
           "DisplayName": "Logo",
           "Description": [
             ""
@@ -16,18 +16,7 @@
           "DefaultValue": "."
         },
         {
-          "Name": "IncludeDir16",
-          "DisplayName": "High Quality GI",
-          "Description": [
-            ""
-          ],
-          "Type": "GIEnum",
-          "MinValue": null,
-          "MaxValue": null,
-          "DefaultValue": "."
-        },
-        {
-          "Name": "IncludeDir0",
+          "Name": "IncludeDir2",
           "DisplayName": "Controler Type",
           "Description": [
             ""
@@ -44,7 +33,7 @@
       "DisplayName": "Dragon Road Wii Act 1",
       "Elements": [
         {
-          "Name": "IncludeDir12",
+          "Name": "IncludeDir11",
           "DisplayName": "Main Wood Texture",
           "Type": "MainWoodTexture",
           "DefaultValue": "./WiiWood",
@@ -59,7 +48,7 @@
           "MaxValue": null
         },
         {
-          "Name": "IncludeDir3",
+          "Name": "IncludeDir12",
           "DisplayName": "Visuals!!!",
           "Type": "Visuals!!!",
           "DefaultValue": "./WiiWaterRef",
@@ -77,7 +66,7 @@
       "DisplayName": "Arid Sand Wii Act 2",
       "Elements": [
         {
-          "Name": "IncludeDir1",
+          "Name": "IncludeDir9",
           "DisplayName": "Use the Sand Buggy",
           "Type": "SandBuggy",
           "DefaultValue": ".",
@@ -102,14 +91,14 @@
       },
       {
         "DisplayName": "Sonic UnWiished",
-        "Value": "Logo1",
+        "Value": "Common/Options/Logo1",
         "Description": [
           "Original logo with Wii in it"
         ]
       },
       {
         "DisplayName": "UnWiished Recompile",
-        "Value": "Logo2",
+        "Value": "Common/Options/Logo2",
         "Description": [
           "Unleashed Recompile logo mod with Wii in it"
         ]
@@ -125,7 +114,7 @@
       },
       {
         "DisplayName": "Disable",
-        "Value": "NoBuggy",
+        "Value": "Petra/NoBuggy",
         "Description": [
           "Doesn't use the sand buggy"
         ]
@@ -141,7 +130,7 @@
       },
       {
         "DisplayName": "PS3",
-        "Value": "PS3",
+        "Value": "Common/Options/PS3",
         "Description": [
           "PS3 UI and Voice line"
         ]
@@ -157,12 +146,35 @@
       },
       {
         "DisplayName": "Wii Acurate",
-        "Value": "WiiStgLst",
+        "Value": "Common/Options/WiiStgLst",
         "Description": [
           "This option will :\n- Hide Restored day Acts\n- Separate Night Acts to 3"
         ]
       }
 	],
+  "BuildEnum": [
+      {
+        "DisplayName": "Release",
+        "Value": ".",
+        "Description": [
+          ""
+        ]
+      },
+      {
+        "DisplayName": "Sonic Hacking Contest",
+        "Value": "SHCData",
+        "Description": [
+          ""
+        ]
+      },
+      {
+        "DisplayName": "Dev Build",
+        "Value": "Dev",
+        "Description": [
+          ""
+        ]
+      }
+    ],
   "GIEnum": [
       {
         "DisplayName": "Enable",
