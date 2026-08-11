@@ -1,9 +1,9 @@
 ## Playtest SHC Demo v4
 ### Shamar Day:
-- Remove broken particle effect in act 1
+- Remove broken particles effects in act 1
 ### Mykonos Night:
 - Remove invisible HangPath in act 3
-- Fix enemy stuck in a bloc in act 3
+- Fix an enemy stuck in a bloc in act 3
 ### Spagonia Night:
 - Add the elevator in the middle of act 1
 - Fix the thorns panel being invisible in act 2
