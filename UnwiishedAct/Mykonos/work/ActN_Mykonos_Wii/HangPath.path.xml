@@ -1,0 +1,482 @@
+<?xml version="1.0" ?>
+<SonicPath>
+     <library type="GEOMETRY">
+          <geometry id="hangpath07@HG-geometry" name="hangpath07@HG-geometry">
+               <spline count="1" width="0.2">
+                    <spline3d count="3">
+                         <knot type="corner">
+                              <invec>-23.89208 64.46029 -146.56367</invec>
+                              <outvec>-24.15111 64.46027 -142.70246</outvec>
+                              <point>-23.89208 64.46029 -146.56367</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>-24.41014 64.46026 -138.84125</invec>
+                              <outvec>-26.16705 64.46024 -135.08053</outvec>
+                              <point>-24.66917 64.46024 -134.98004</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>-27.66493 64.46024 -135.18102</invec>
+                              <outvec>-29.16281 64.46024 -135.28151</outvec>
+                              <point>-29.16281 64.46024 -135.28151</point>
+                         </knot>
+                    </spline3d>
+               </spline>
+          </geometry>
+          <geometry id="hangpath08@HG-geometry" name="hangpath08@HG-geometry">
+               <spline count="1" width="0.2">
+                    <spline3d count="3">
+                         <knot type="corner">
+                              <invec>-36.03105 63.16019 -122.75719</invec>
+                              <outvec>-34.19334 63.16019 -122.63390</outvec>
+                              <point>-36.03105 63.16019 -122.75719</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>-32.35562 63.16019 -122.51062</invec>
+                              <outvec>-30.63967 63.16018 -120.57220</outvec>
+                              <point>-30.51790 63.16019 -122.38734</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>-30.76144 63.16017 -118.75707</invec>
+                              <outvec>-30.88321 63.16016 -116.94193</outvec>
+                              <point>-30.88321 63.16016 -116.94193</point>
+                         </knot>
+                    </spline3d>
+               </spline>
+          </geometry>
+          <geometry id="evil_mykAB_path_st_LineBalance_00@HG-geometry" name="evil_mykAB_path_st_LineBalance_00@HG-geometry">
+               <spline count="1" width="0.2">
+                    <spline3d count="2">
+                         <knot type="corner">
+                              <invec>43.63242 35.91050 -213.20477</invec>
+                              <outvec>43.47623 35.91049 -210.87667</outvec>
+                              <point>43.63242 35.91050 -213.20477</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>43.32005 35.91048 -208.54857</invec>
+                              <outvec>43.16387 35.91047 -206.22047</outvec>
+                              <point>43.16387 35.91047 -206.22047</point>
+                         </knot>
+                    </spline3d>
+               </spline>
+          </geometry>
+          <geometry id="evil_mykAB_path_st_LineBalance_002@HG-geometry" name="evil_mykAB_path_st_LineBalance_002@HG-geometry">
+               <spline count="1" width="0.2">
+                    <spline3d count="2">
+                         <knot type="corner">
+                              <invec>48.67045 16.16080 -287.01544</invec>
+                              <outvec>48.51427 16.16079 -284.68735</outvec>
+                              <point>48.67045 16.16080 -287.01544</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>48.35809 16.16078 -282.35925</invec>
+                              <outvec>48.20191 16.16077 -280.03116</outvec>
+                              <point>48.20191 16.16077 -280.03116</point>
+                         </knot>
+                    </spline3d>
+               </spline>
+          </geometry>
+          <geometry id="evil_mykAB_path_st_LineBalance_000@HG-geometry" name="evil_mykAB_path_st_LineBalance_000@HG-geometry">
+               <spline count="1" width="0.2">
+                    <spline3d count="2">
+                         <knot type="corner">
+                              <invec>47.19790 16.16071 -265.06479</invec>
+                              <outvec>46.97478 16.16070 -261.73893</outvec>
+                              <point>47.19790 16.16071 -265.06479</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>46.75167 16.16068 -258.41308</invec>
+                              <outvec>46.52855 16.16067 -255.08722</outvec>
+                              <point>46.52855 16.16067 -255.08722</point>
+                         </knot>
+                    </spline3d>
+               </spline>
+          </geometry>
+          <geometry id="evil_mykAB_path_st_LineBalance_001@HG-geometry" name="evil_mykAB_path_st_LineBalance_001@HG-geometry">
+               <spline count="1" width="0.2">
+                    <spline3d count="2">
+                         <knot type="corner">
+                              <invec>48.13498 20.36077 -279.03339</invec>
+                              <outvec>47.77800 20.36075 -273.71202</outvec>
+                              <point>48.13498 20.36077 -279.03339</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>47.42101 20.36072 -268.39065</invec>
+                              <outvec>47.06403 20.36070 -263.06927</outvec>
+                              <point>47.06403 20.36070 -263.06927</point>
+                         </knot>
+                    </spline3d>
+               </spline>
+          </geometry>
+          <geometry id="hangpath00@HG-geometry" name="hangpath00@HG-geometry">
+               <spline count="1" width="0.2">
+                    <spline3d count="2">
+                         <knot type="corner">
+                              <invec>-40.81440 32.01059 428.77594</invec>
+                              <outvec>-40.81440 32.01059 427.00419</outvec>
+                              <point>-40.81440 32.01059 428.77594</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>-40.81440 32.01059 425.23244</invec>
+                              <outvec>-40.81440 32.01059 423.46069</outvec>
+                              <point>-40.81440 32.01059 423.46069</point>
+                         </knot>
+                    </spline3d>
+               </spline>
+          </geometry>
+          <geometry id="hangpath01@HG-geometry" name="hangpath01@HG-geometry">
+               <spline count="1" width="0.2">
+                    <spline3d count="4">
+                         <knot type="corner">
+                              <invec>-28.52237 39.72555 306.16232</invec>
+                              <outvec>-29.88484 39.72556 304.79987</outvec>
+                              <point>-28.52237 39.72555 306.16232</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>-31.24732 39.72556 303.43741</invec>
+                              <outvec>-32.27643 39.72556 301.74154</outvec>
+                              <point>-32.60979 39.72556 302.07495</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>-31.94307 39.72557 301.40812</invec>
+                              <outvec>-34.60418 39.72558 298.08033</outvec>
+                              <point>-31.60970 39.72557 301.07471</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>-37.59865 39.72559 295.08596</invec>
+                              <outvec>-40.59312 39.72560 292.09158</outvec>
+                              <point>-40.59312 39.72560 292.09158</point>
+                         </knot>
+                    </spline3d>
+               </spline>
+          </geometry>
+          <geometry id="hangpath02@HG-geometry" name="hangpath02@HG-geometry">
+               <spline count="1" width="0.2">
+                    <spline3d count="3">
+                         <knot type="corner">
+                              <invec>-54.28372 44.88399 281.22574</invec>
+                              <outvec>-55.09348 44.88400 280.41597</outvec>
+                              <point>-54.28372 44.88399 281.22574</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>-55.90325 44.88400 279.60621</invec>
+                              <outvec>-58.02773 44.88401 277.48173</outvec>
+                              <point>-56.71301 44.88400 278.79645</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>-59.34246 44.88401 276.16701</invec>
+                              <outvec>-60.65718 44.88401 274.85229</outvec>
+                              <point>-60.65718 44.88401 274.85229</point>
+                         </knot>
+                    </spline3d>
+               </spline>
+          </geometry>
+          <geometry id="hangpath_idktbh@HG-geometry" name="hangpath_idktbh@HG-geometry">
+               <spline count="1" width="0.2">
+                    <spline3d count="2">
+                         <knot type="corner">
+                              <invec>32.42859 46.02581 249.01859</invec>
+                              <outvec>32.42859 46.02582 245.71859</outvec>
+                              <point>32.42859 46.02581 249.01859</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>32.42859 46.02583 242.41859</invec>
+                              <outvec>32.42859 46.02584 239.11859</outvec>
+                              <point>32.42859 46.02584 239.11859</point>
+                         </knot>
+                    </spline3d>
+               </spline>
+          </geometry>
+          <geometry id="hangpath04@HG-geometry" name="hangpath04@HG-geometry">
+               <spline count="1" width="0.2">
+                    <spline3d count="3">
+                         <knot type="corner">
+                              <invec>59.14257 53.12039 203.18489</invec>
+                              <outvec>59.14257 53.12039 201.84390</outvec>
+                              <point>59.14257 53.12039 203.18489</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>59.14257 53.12039 200.50291</invec>
+                              <outvec>59.14257 53.12039 197.82653</outvec>
+                              <point>59.14257 53.12039 199.16193</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>59.14257 53.12039 196.49113</invec>
+                              <outvec>59.14257 53.12039 195.15573</outvec>
+                              <point>59.14257 53.12039 195.15573</point>
+                         </knot>
+                    </spline3d>
+               </spline>
+          </geometry>
+          <geometry id="hangpath05@HG-geometry" name="hangpath05@HG-geometry">
+               <spline count="1" width="0.2">
+                    <spline3d count="10">
+                         <knot type="corner">
+                              <invec>92.44940 59.12598 196.12964</invec>
+                              <outvec>92.23944 59.12598 196.12964</outvec>
+                              <point>92.44940 59.12598 196.12964</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>92.02948 59.12598 196.12964</invec>
+                              <outvec>91.09950 59.12598 196.12964</outvec>
+                              <point>91.81952 59.12598 196.12964</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>90.37948 59.12598 196.12964</invec>
+                              <outvec>88.29253 59.12598 196.12964</outvec>
+                              <point>89.65946 59.12598 196.12964</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>86.92559 59.12598 196.12964</invec>
+                              <outvec>85.51583 59.12598 196.08681</outvec>
+                              <point>85.55865 59.12598 196.12964</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>85.47300 59.12598 196.04399</invec>
+                              <outvec>85.43018 59.12599 193.41282</outvec>
+                              <point>85.43018 59.12598 196.00116</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>85.43018 59.12600 190.82448</invec>
+                              <outvec>85.47300 59.12600 188.19332</outvec>
+                              <point>85.43018 59.12600 188.23615</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>85.51583 59.12601 188.15049</invec>
+                              <outvec>86.92559 59.12601 188.10767</outvec>
+                              <point>85.55865 59.12601 188.10767</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>88.29253 59.12601 188.10767</invec>
+                              <outvec>90.37948 59.12601 188.10767</outvec>
+                              <point>89.65946 59.12601 188.10767</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>91.09950 59.12601 188.10767</invec>
+                              <outvec>92.02948 59.12601 188.10767</outvec>
+                              <point>91.81952 59.12601 188.10767</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>92.23944 59.12601 188.10767</invec>
+                              <outvec>92.44940 59.12601 188.10767</outvec>
+                              <point>92.44940 59.12601 188.10767</point>
+                         </knot>
+                    </spline3d>
+               </spline>
+          </geometry>
+          <geometry id="hangpathidk2@HG-geometry" name="hangpathidk2@HG-geometry">
+               <spline count="1" width="0.2">
+                    <spline3d count="13">
+                         <knot type="corner">
+                              <invec>92.46474 59.12605 175.14220</invec>
+                              <outvec>92.25430 59.12605 175.14220</outvec>
+                              <point>92.46474 59.12605 175.14220</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>92.04385 59.12605 175.14220</invec>
+                              <outvec>89.74168 59.12605 175.14220</outvec>
+                              <point>91.83341 59.12605 175.14220</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>87.64995 59.12605 175.14220</invec>
+                              <outvec>85.51529 59.12605 175.09927</outvec>
+                              <point>85.55821 59.12605 175.14220</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>85.47236 59.12605 175.05635</invec>
+                              <outvec>85.42944 59.12605 174.66946</outvec>
+                              <point>85.42944 59.12605 175.01343</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>85.42944 59.12605 174.32549</invec>
+                              <outvec>85.42944 59.12605 173.62563</outvec>
+                              <point>85.42944 59.12605 173.98152</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>85.42944 59.12606 173.26974</invec>
+                              <outvec>85.42944 59.12606 172.20208</outvec>
+                              <point>85.42944 59.12606 172.91385</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>85.42944 59.12606 171.49031</invec>
+                              <outvec>85.42944 59.12607 170.42265</outvec>
+                              <point>85.42944 59.12606 170.77853</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>85.42944 59.12607 170.06676</invec>
+                              <outvec>85.42944 59.12607 168.98223</outvec>
+                              <point>85.42944 59.12607 169.71088</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>85.42944 59.12607 168.25358</invec>
+                              <outvec>85.42944 59.12608 166.75680</outvec>
+                              <point>85.42944 59.12608 167.52493</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>85.42944 59.12608 165.98867</invec>
+                              <outvec>85.47236 59.12608 165.17761</outvec>
+                              <point>85.42944 59.12608 165.22054</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>85.51529 59.12608 165.13469</invec>
+                              <outvec>87.64995 59.12608 165.09177</outvec>
+                              <point>85.55821 59.12608 165.09177</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>89.74168 59.12608 165.09177</invec>
+                              <outvec>92.04385 59.12608 165.09177</outvec>
+                              <point>91.83341 59.12608 165.09177</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>92.25430 59.12608 165.09177</invec>
+                              <outvec>92.46474 59.12608 165.09177</outvec>
+                              <point>92.46474 59.12608 165.09177</point>
+                         </knot>
+                    </spline3d>
+               </spline>
+          </geometry>
+          <geometry id="hangpath06@HG-geometry" name="hangpath06@HG-geometry">
+               <spline count="1" width="0.2">
+                    <spline3d count="2">
+                         <knot type="corner">
+                              <invec>62.44774 65.10721 119.11865</invec>
+                              <outvec>60.44252 65.10721 119.11865</outvec>
+                              <point>62.44774 65.10721 119.11865</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>58.43730 65.10721 119.11865</invec>
+                              <outvec>56.43208 65.10721 119.11865</outvec>
+                              <point>56.43208 65.10721 119.11865</point>
+                         </knot>
+                    </spline3d>
+               </spline>
+          </geometry>
+          <geometry id="stg111_og_A14_Mesh_0010.001-geometry" name="stg111_og_A14_Mesh_0010.001-geometry">
+               <spline count="1" width="0.2">
+                    <spline3d count="6">
+                         <knot type="corner">
+                              <invec>55.42601 65.12534 133.12749</invec>
+                              <outvec>55.42601 65.12534 131.87256</outvec>
+                              <point>55.42601 65.12534 133.12749</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>55.42601 65.12534 130.61763</invec>
+                              <outvec>55.50905 65.12534 129.27966</outvec>
+                              <point>55.42601 65.12534 129.36270</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>55.59209 65.12534 129.19662</invec>
+                              <outvec>58.18498 65.12534 129.11359</outvec>
+                              <point>55.67513 65.12534 129.11359</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>60.69484 65.12534 129.11359</invec>
+                              <outvec>63.28773 65.12534 129.19662</outvec>
+                              <point>63.20469 65.12534 129.11359</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>63.37077 65.12534 129.27966</invec>
+                              <outvec>63.45382 65.12534 130.61763</outvec>
+                              <point>63.45382 65.12534 129.36270</point>
+                         </knot>
+                         <knot type="corner">
+                              <invec>63.45382 65.12534 131.87256</invec>
+                              <outvec>63.45382 65.12534 133.12749</outvec>
+                              <point>63.45382 65.12534 133.12749</point>
+                         </knot>
+                    </spline3d>
+               </spline>
+          </geometry>
+     </library>
+     <scene id="DefaultScene">
+          <node id="hangpath07@HG" name="hangpath07@HG">
+               <translate>0.00000 0.00000 -0.00000</translate>
+               <scale>1 1 1</scale>
+               <rotate>0 0 0 1</rotate>
+               <instance url="#hangpath07@HG-geometry"/>
+          </node>
+          <node id="hangpath08@HG" name="hangpath08@HG">
+               <translate>0.00000 0.00000 -0.00000</translate>
+               <scale>1 1 1</scale>
+               <rotate>0 0 0 1</rotate>
+               <instance url="#hangpath08@HG-geometry"/>
+          </node>
+          <node id="evil_mykAB_path_st_LineBalance_00@HG" name="evil_mykAB_path_st_LineBalance_00@HG">
+               <translate>0.00000 0.00000 -0.00000</translate>
+               <scale>1 1 1</scale>
+               <rotate>0 0 0 1</rotate>
+               <instance url="#evil_mykAB_path_st_LineBalance_00@HG-geometry"/>
+          </node>
+          <node id="evil_mykAB_path_st_LineBalance_002@HG" name="evil_mykAB_path_st_LineBalance_002@HG">
+               <translate>0.00000 0.00000 -0.00000</translate>
+               <scale>1 1 1</scale>
+               <rotate>0 0 0 1</rotate>
+               <instance url="#evil_mykAB_path_st_LineBalance_002@HG-geometry"/>
+          </node>
+          <node id="evil_mykAB_path_st_LineBalance_000@HG" name="evil_mykAB_path_st_LineBalance_000@HG">
+               <translate>0.00000 0.00000 -0.00000</translate>
+               <scale>1 1 1</scale>
+               <rotate>0 0 0 1</rotate>
+               <instance url="#evil_mykAB_path_st_LineBalance_000@HG-geometry"/>
+          </node>
+          <node id="evil_mykAB_path_st_LineBalance_001@HG" name="evil_mykAB_path_st_LineBalance_001@HG">
+               <translate>0.00000 0.00000 -0.00000</translate>
+               <scale>1 1 1</scale>
+               <rotate>0 0 0 1</rotate>
+               <instance url="#evil_mykAB_path_st_LineBalance_001@HG-geometry"/>
+          </node>
+          <node id="hangpath00@HG" name="hangpath00@HG">
+               <translate>0.00000 0.00000 -0.00000</translate>
+               <scale>1 1 1</scale>
+               <rotate>0 0 0 1</rotate>
+               <instance url="#hangpath00@HG-geometry"/>
+          </node>
+          <node id="hangpath01@HG" name="hangpath01@HG">
+               <translate>0.00000 0.00000 -0.00000</translate>
+               <scale>1 1 1</scale>
+               <rotate>0 0 0 1</rotate>
+               <instance url="#hangpath01@HG-geometry"/>
+          </node>
+          <node id="hangpath02@HG" name="hangpath02@HG">
+               <translate>0.00000 0.00000 -0.00000</translate>
+               <scale>1 1 1</scale>
+               <rotate>0 0 0 1</rotate>
+               <instance url="#hangpath02@HG-geometry"/>
+          </node>
+          <node id="hangpath_idktbh@HG" name="hangpath_idktbh@HG">
+               <translate>0.00000 0.00000 -0.00000</translate>
+               <scale>1 1 1</scale>
+               <rotate>0 0 0 1</rotate>
+               <instance url="#hangpath_idktbh@HG-geometry"/>
+          </node>
+          <node id="hangpath04@HG" name="hangpath04@HG">
+               <translate>0.00000 0.00000 -0.00000</translate>
+               <scale>1 1 1</scale>
+               <rotate>0 0 0 1</rotate>
+               <instance url="#hangpath04@HG-geometry"/>
+          </node>
+          <node id="hangpath05@HG" name="hangpath05@HG">
+               <translate>0.00000 0.00000 -0.00000</translate>
+               <scale>1 1 1</scale>
+               <rotate>0 0 0 1</rotate>
+               <instance url="#hangpath05@HG-geometry"/>
+          </node>
+          <node id="hangpathidk2@HG" name="hangpathidk2@HG">
+               <translate>0.00000 0.00000 -0.00000</translate>
+               <scale>1 1 1</scale>
+               <rotate>0 0 0 1</rotate>
+               <instance url="#hangpathidk2@HG-geometry"/>
+          </node>
+          <node id="hangpath06@HG" name="hangpath06@HG">
+               <translate>0.00000 0.00000 -0.00000</translate>
+               <scale>1 1 1</scale>
+               <rotate>0 0 0 1</rotate>
+               <instance url="#hangpath06@HG-geometry"/>
+          </node>
+          <node id="stg111_og_A14_Mesh_0010.001" name="stg111_og_A14_Mesh_0010.001">
+               <translate>0.00000 0.00000 -0.00000</translate>
+               <scale>1 1 1</scale>
+               <rotate>0 0 0 1</rotate>
+               <instance url="#stg111_og_A14_Mesh_0010.001-geometry"/>
+          </node>
+     </scene>
+</SonicPath>
