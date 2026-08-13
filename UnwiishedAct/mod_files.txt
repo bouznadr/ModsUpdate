@@ -1,3 +1,6 @@
+add EU/work/ActN_EU_Wii/area03_gimmickset.set.xml
+add EU/work/ActN_EU_Wii/afr_obj_fallfloor_001.phy.hkx
+add EU/work/ActN_EU_Wii/evl_afr_obj_oy_floor_5M.model
 add EU/work/EvilActionCommon_EU/thornpanel__NSP_CMN_ChaoTexSpecNrmTan__-0001.texture
 add EU/work/EvilActionCommon_EU/thornpanel__NSP_CMN_ChaoTexSpecNrmTan__-0000.texture
 add EU/work/EvilActionCommon_EU/thornpanel__NSP_CMN_ChaoTexSpecNrmTan__.texset

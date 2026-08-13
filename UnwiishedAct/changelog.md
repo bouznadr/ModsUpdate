@@ -1,3 +1,6 @@
+## Playtest SHC Demo v5
+- add a moving platform in Spagonia Night act 2
+
 ## Playtest SHC Demo v4
 ### Shamar Day:
 - Remove broken particles effects in act 1
