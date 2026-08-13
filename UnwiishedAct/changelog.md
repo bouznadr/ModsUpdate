@@ -1,5 +1,5 @@
 ## Playtest SHC Demo v5
-- add a moving platform in Spagonia Night act 2
+- add a missing moving platform in Spagonia Night act 2
 
 ## Playtest SHC Demo v4
 ### Shamar Day:
