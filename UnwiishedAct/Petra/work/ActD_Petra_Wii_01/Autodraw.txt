@@ -1,0 +1,6 @@
+pet_kk_RippleMark-0000.uv-anim
+pet_kk_RippleMarktrans-0000.uv-anim
+pet_kk_RippleMarktrans-0001.uv-anim
+pte_nm_water.uv-anim
+sea_na_wave00.uv-anim
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<SetObject>
+  <ObjBaseSound>
+    <BaseVolume>1</BaseVolume>
+    <CueName>cmn_ambience_01</CueName>
+    <FileName>se_ambience_common</FileName>
+    <GroundOffset>0</GroundOffset>
+    <IntervalTime>5</IntervalTime>
+    <IsRegularly>false</IsRegularly>
+    <Position>
+      <x>6.8175</x>
+      <y>0</y>
+      <z>-3.38365</z>
+    </Position>
+    <Rotation>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+      <w>1</w>
+    </Rotation>
+    <SetObjectID>778</SetObjectID>
+  </ObjBaseSound>
+  <ObjBaseSound>
+    <BaseVolume>0.4</BaseVolume>
+    <CueName>ambsn_ptr_windamb</CueName>
+    <FileName>se_ambience_ptr_sonic</FileName>
+    <GroundOffset>0</GroundOffset>
+    <IntervalTime>5</IntervalTime>
+    <IsRegularly>false</IsRegularly>
+    <Position>
+      <x>11.6557</x>
+      <y>-5.96046e-08</y>
+      <z>-7.26882</z>
+    </Position>
+    <Rotation>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+      <w>1</w>
+    </Rotation>
+    <SetObjectID>779</SetObjectID>
+  </ObjBaseSound>
+</SetObject>

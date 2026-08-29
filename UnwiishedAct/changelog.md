@@ -1,3 +1,19 @@
+## Playtest SHC Demo v6
+### Global:
+- Update the Rank table of day stage
+### Adabat Day:
+- Add ambiance SFX
+### Shamar Day:
+- Add ambiance SFX
+### Shamar Day act 1:
+- Update collision
+- Fix uv-anim
+- Update water material
+### Spagonia Day:
+- add a MissionGoalPoint in the ring mission 2
+### Chun-Nan Day:
+- add a MissionGoalPoint in the ring mission 2
+
 ## Playtest SHC Demo v5
 - add a missing moving platform in Spagonia Night act 2
 

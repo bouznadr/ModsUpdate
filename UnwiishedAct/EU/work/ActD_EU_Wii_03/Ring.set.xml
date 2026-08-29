@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<SetObject>
+  <SuperRing>
+    <GroundOffset>0</GroundOffset>
+    <Position>
+      <x>1143.81</x>
+      <y>45</y>
+      <z>90.8316</z>
+    </Position>
+    <Rotation>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+      <w>1</w>
+    </Rotation>
+    <SetObjectID>195</SetObjectID>
+  </SuperRing>
+  <MissionGoalPoint>
+    <GroundOffset>0</GroundOffset>
+    <Position>
+      <x>1143.81</x>
+      <y>45</y>
+      <z>96.8316</z>
+    </Position>
+    <Rotation>
+      <x>0</x>
+      <y>-0.707107</y>
+      <z>0</z>
+      <w>0.707107</w>
+    </Rotation>
+    <SetObjectID>309</SetObjectID>
+  </MissionGoalPoint>
+</SetObject>
