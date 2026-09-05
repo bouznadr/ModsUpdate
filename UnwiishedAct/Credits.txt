@@ -3,6 +3,7 @@ BaconYum: Night stage - chun-nan day terrain
 
 Additional help:
 EM: Chun-nan day Act 1
-JoeyLaw: fact check on original game
+JoeyLaw: Fact check on original game
+Yaya_Dream: Was here since the beginning of this project
 
 Playtester:

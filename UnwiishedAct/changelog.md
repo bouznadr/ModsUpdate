@@ -1,3 +1,6 @@
+## Playtest SHC Demo v7
+- Make the street lamps have emission in Spagonia Night
+
 ## Playtest SHC Demo v6
 ### Global:
 - Update the Rank table of day stage
@@ -28,7 +31,7 @@
 - Fix the thorns panel being invisible in act 2
 
 ## Playtest SHC Demo v3
-- Fix the sequance file of mykonos day act 1
+- Fix the sequance file of Mykonos Day act 1
 
 ## Playtest SHC Demo v2
 - Fix stuburn evil seal in wii Mykonos Night act 2

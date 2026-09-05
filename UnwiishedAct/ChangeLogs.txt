@@ -35,7 +35,7 @@
 - Chun-nan
 * Fix a broken file that force the game to only load the Spear object
 
-[WIP3]
+[SHC_DEMO]
 * Update tutorial drift loading render
 * Add Super Rings variant
 * Stage now load the high quality GI
@@ -46,9 +46,9 @@
 * Add Sound ambiance in day stage
 
 - Spagonia
-* Add Full Act Night *todo* SetData left
+* Add Full Act Night *todo* Camera left
 * Fix gaia gate water collision
-* Updated Rank Table *todo*
+* Updated Rank Table
 * Add Sound ambiance in day stage
 
 - Shamar
