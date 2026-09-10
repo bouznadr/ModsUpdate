@@ -13,7 +13,7 @@
           "Type": "ConfigEnum",
           "MinValue": null,
           "MaxValue": null,
-          "DefaultValue": "."
+          "DefaultValue": "Common/Options/Logo0"
         },
         {
           "Name": "IncludeDir2",
@@ -82,6 +82,13 @@
   ],
   "Enums": {
     "ConfigEnum": [
+      {
+        "DisplayName": "+ Unwiished Level",
+        "Value": "Common/Options/Logo0",
+        "Description": [
+          "Default logo\n\n(And a '+Wii Act' for the jp title')"
+        ]
+      },
       {
         "DisplayName": "Sonic Unleashed",
         "Value": ".",

@@ -1,3 +1,7 @@
+## Playtest SHC Demo v8
+- Add rings I forgot in the chaser section Adabat Day act 1
+- Add a logo for the mod
+
 ## Playtest SHC Demo v7
 - Make the street lamps have emission in Spagonia Night
 

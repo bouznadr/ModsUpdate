@@ -1,3 +1,10 @@
+add Common/Options/Logo0/Loading/logos_en.dds
+add Common/Options/Logo0/Loading/logos_jp.dds
+add Common/Options/Logo0/Loading/OPmovie_titlelogo_EN.dds
+add Common/Options/Logo0/Loading/OPmovie_titlelogo_JP.dds
+add Common/Options/Logo0/+Title.ar.00
+add Common/Options/Logo0/+Title.arl
+add Beach/work/ActD_Beach_Wii_01/Base2.set.xml
 add EU/work/ActN_EU_Wii/eu_kk_lamp01.dds
 add EU/work/ActN_EU_Wii/eu_kk_lamp01.material
 add EU/work/ActN_EU_Wii/eu_kk_lamp01.texset
