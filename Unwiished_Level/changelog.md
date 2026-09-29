@@ -1,2 +1,2 @@
-## SHC Demo 2
+## SHC Demo
 - Initial release
